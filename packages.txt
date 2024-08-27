@@ -1,3 +1,7 @@
-libxrender
 libxrender1
 libxext6
+libx11-dev
+libxau6
+libxdmcp6
+build-essential
+python3-dev
